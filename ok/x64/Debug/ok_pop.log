@@ -1,0 +1,14 @@
+﻿  ok_pop.cpp
+C:\Users\Igor\Desktop\akwb\zad3\ok_pop\ok_pop.cpp(43,56): warning C4267: "argument": konwersja z "size_t" do "_Ty", możliwa utrata danych
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Igor\Desktop\akwb\zad3\ok_pop\ok_pop.cpp(75,51): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Igor\Desktop\akwb\zad3\ok_pop\ok_pop.cpp(180,26): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Igor\Desktop\akwb\zad3\ok_pop\ok_pop.cpp(181,26): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Igor\Desktop\akwb\zad3\ok_pop\ok_pop.cpp(240,26): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\Igor\Desktop\akwb\zad3\ok_pop\ok_pop.cpp(285,21): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Igor\Desktop\akwb\zad3\ok_pop\ok_pop.cpp(322,30): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\Igor\Desktop\akwb\zad3\ok_pop\ok_pop.cpp(443,30): warning C4305: "-=": obcięcie z "double" do "float"
+  ok_pop.vcxproj -> C:\Users\Igor\Desktop\akwb\zad3\ok_pop\x64\Debug\ok_pop.exe
